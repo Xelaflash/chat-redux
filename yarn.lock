@@ -6976,6 +6976,11 @@ react-dom@16.0.0:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
+react-emojione@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/react-emojione/-/react-emojione-5.0.0.tgz#230fef5e85aa9e1183b9506a15fff37d59ef472f"
+  integrity sha512-+OsHCKgcGdtQVGBYWWFPO7JhS2cevX2S6L3/pR0sah4hJGBM7qU0d2m64p9NYpwu6awH8t+yKArhNc/WHSb8Lg==
+
 react-redux@^5.0.6:
   version "5.0.6"
   resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-5.0.6.tgz#23ed3a4f986359d68b5212eaaa681e60d6574946"
