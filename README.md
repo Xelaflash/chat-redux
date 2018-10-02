@@ -1,3 +1,7 @@
+# React-Redux Slack like chat exercice for React track of Le Wagon
+Done in October 2018
+
+
 # redux-boilerplate
 
 Simple React + Redux starter with the following config:
